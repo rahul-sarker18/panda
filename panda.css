@@ -9,3 +9,13 @@ body{
 #baner1{
     margin-top: 150px;
 }
+#img1{
+    text-align: right;
+}
+#row{
+    grid-gap: 20px;
+}
+.h2{
+    font-size:  60px;
+    font-weight: 900;
+}
