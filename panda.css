@@ -19,3 +19,21 @@ body{
     font-size:  60px;
     font-weight: 900;
 }
+
+#ro{
+    width: 45%;
+    margin: auto;
+  
+    align-items: center;
+    margin-left:31%;
+    padding-bottom: 100px;
+}
+#ron{
+    width: 30%;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+}
+#al{
+   
+}
